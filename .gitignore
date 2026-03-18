@@ -1,0 +1,10 @@
+# Secrets
+config.php
+
+# Logs
+*.log
+
+# Editor folders
+.vscode/
+.idea/
+.hintrc
