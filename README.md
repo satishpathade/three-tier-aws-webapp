@@ -1,4 +1,4 @@
-# 3-Tier-AWS-webapp-Architecture
+# AWS 3-Tier-webapp 
 
 ## Project Overview
 This project demonstrates a **production-ready 3-tier architecture on AWS** by building a scalable and secure **Job Application Portal**.
